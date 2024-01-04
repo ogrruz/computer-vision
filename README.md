@@ -6,10 +6,10 @@ This repository details my submission to the computer science module coursework 
 The accuracies of the obtained models are compared against an isolated subset of the overall data. 
 As a consequence of the lack of consistent data for the chosen topic, the project tangentually attempts to evaluate the impact of utilising inconsistent training environment (data points acquired from several datasets) on the accuracy of the prediction model.
 
-The raw data used within this research is acquired from various existing researches. Namely, it is the research database presented in Berkeley Multimodal Human Action Database (MHAD) [5] and a large public dataset provided by ROSE Lab at the Nanyang Technological
+The raw data used within this research is acquired from various existing researches. Namely, it is the research database presented in Berkeley Multimodal Human Action Database (MHAD) and a large public dataset provided by ROSE Lab at the Nanyang Technological
 University, Singapore and its researchers.
 
-Note: I have ommitted the raw data used for this research due to the its large size. The data directory presented in this repo is an organised extracted subset of the overall frame-by-framee data acquired from above sources.
+Note: I have ommitted the data used for this research due to the its large size. The data complete raw data can be acquired from the above sources.
 
 See paper for more information: [Paper](https://github.com/ogrruz/computer-vision/blob/main/paper.pdf)
 

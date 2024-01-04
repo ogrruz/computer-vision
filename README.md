@@ -15,4 +15,8 @@ See paper for more information: [Paper](https://github.com/ogrruz/computer-visio
 
 ## Directories
 
+* ExtractingDepth && framesToVideo - Support classes for management of raw data acquired from the original datasets. It is worth noting that code contains various methods for the extraction of repetitions from recorded video data.  Much of these are deprecated due to the lack of access to a recording device with the ability to capture RGB-D (depth) data.
 
+* testingFile - this class contains methods relating to the extraction of SIFT features and various functions for the display of processed depth frames for the analysis and inclusion in the paper.
+
+* workflow - main file, a python jupyter notebook, goes through the process of data preparation, data processing and the training of the model with various classification algorithm. The overall results of this projects are acqruired here. 

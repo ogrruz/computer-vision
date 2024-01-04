@@ -11,8 +11,8 @@ University, Singapore and its researchers.
 
 Note: I have ommitted the raw data used for this research due to the its large size. The data directory presented in this repo is an organised extracted subset of the overall frame-by-framee data acquired from above sources.
 
-See paper for more information: [Paper](https://link-url-here.org)
+See paper for more information: [Paper](https://github.com/ogrruz/computer-vision/blob/main/paper.pdf)
 
-## Diretories
+## Directories
 
 
